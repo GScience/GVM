@@ -9,7 +9,7 @@ More platform supportion will be added.
 <br/>
 
 ## 2. Resources
-- <a href="#instruction set">Instruction set</a>
+- <a href="#instruction-set">Instruction set</a>
 - VM model
 - Introduction of GCode
 <br/>
