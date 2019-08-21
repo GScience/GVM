@@ -8,6 +8,6 @@ I decided to add multiplatform supportion, which means that with one compilation
 More platform supportion will be added.
 
 ## 2. Resources
-- Instruction set
+- <a href=https://github.com/GScience/GVM/blob/master/doc/InstructionSet.md>Instruction set</a>
 - VM model
 - Introduction of GCode

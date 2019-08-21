@@ -1,4 +1,4 @@
-### instruction set
+# instruction set
 |Instruction Code|Arguements|Description|
 | ------------ | ------------ | ------------ |
 |<center>Push.I8</center>	|<center>Int8</center>	|Push an int8 object to the top of the evaluation stack.|
